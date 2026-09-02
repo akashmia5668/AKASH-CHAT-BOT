@@ -43,10 +43,10 @@ module.exports.languages = {
 
 // 🔹 এখানে আপনার ফটো Imgur লিংক করে বসাবেন ✅
 const helpImages = [
-    "https://i.imgur.com/gokzyKd.jpeg",
-    "https://i.imgur.com/g3hlQ0Z.jpeg",
-    "https://i.imgur.com/L7txp4M.jpeg",
-    "https://i.imgur.com/5dG8PS5.jpeg"
+    "https://i.ibb.co/1Jb2Pg7w/1788370714235.jpg",
+    "https://i.ibb.co/rKwmHs9z/1788370724999.jpg",
+    "https://i.ibb.co/vvZ8PR5M/In-Shot-20260129-100035604.jpg",
+    "https://i.ibb.co/chNgqcnn/1758702566525.jpg"
 ];
 
 
